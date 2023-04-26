@@ -6,7 +6,7 @@ The goal of this project is to develop a model that can accurately predict wheth
 The dataset can be collected from: https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge
 
 Once the dataset is collected and preprocessed, the next step will be to develop a deep learning model that can learn to classify the comments as toxic,severe toxic,	obscene, threat, insult or hate.
-The model will be build using various deep learning techniques such as bidirectional LSTM and a certain number of dense layers. The aim is to achieve high accuracy and minimize false positives and false negatives.
+The model is build using various deep learning techniques such as bidirectional LSTM and a certain number of dense layers. The aim is to achieve high accuracy and minimize false positives and false negatives.
 The trained model can be used to automatically detect toxic comments in real-time and can be integrated into various platforms such as social media platforms, online forums, and chat applications. This can help to minimize the spread of toxic comments and create a safer and more inclusive online environment.
 
 The model has been deployed using Gradio which is an an open-source Python library that makes it easy to create and deploy custom ML interfaces using simple Python code. It can be used to build web-based interfaces for machine learning, deep learning models and can be easily integrated into various web applications.
