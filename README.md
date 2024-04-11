@@ -1,5 +1,5 @@
-# Toxic-Comment-Predictor
-Comment toxicity prediction is a deep learning project aimed at building a model that can automatically classify text comments as toxic or non-toxic. Toxic comments are those that contain offensive, abusive, or harassing content, and can cause harm to individuals or groups.
+# Hate Speecg Detection
+Hate speech detection is a deep learning project aimed at building a model that can automatically classify text comments as toxic or non-toxic. Toxic comments are those that contain offensive, abusive, or harassing content, and can cause harm to individuals or groups.
 
 The goal of this project is to develop a model that can accurately predict whether a comment is toxic or non-toxic based on its text content. To achieve this, the project will involve collecting and cleaning a large dataset of comments labeled as toxic or non-toxic. 
 
